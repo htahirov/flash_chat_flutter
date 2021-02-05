@@ -1,6 +1,6 @@
 # flash_chat_app
 
-A new Flutter application.
+Flash chat app flutter with Firebase
 
 ## Getting Started
 
